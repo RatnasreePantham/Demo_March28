@@ -1,0 +1,11 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : wipro.com
+   IPv4 Address. . . . . . . . . . . : 10.154.18.234
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.154.18.1
+hai i am good
